@@ -6,7 +6,7 @@ Follow these instructions to run this project on your local machine for developm
 
 ## Prerequisite
  - npm
- - mongo db
+ - Mongo DB
 
 ## Installing
 1. Clone the repo
