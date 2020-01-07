@@ -23,7 +23,7 @@ Follow these instructions to run this project on your local machine for developm
 
 4. Start the server and go to http://localhost:4000/addresses
 
-### `You should see the list of addresses in australia`
+### `You should see a list of addresses in australia`
 
 ## Built With 
 
