@@ -35,6 +35,3 @@ Follow these instructions to run this project on your local machine for developm
 ## Contributors
  
   - #### Gerwin Baula - [Twelve Technologies](https://twelvetechnologies.netlify.com)
-  
-## License
-This project is under MIT license - see the [LICENSE.md](./LICENSE.md)
